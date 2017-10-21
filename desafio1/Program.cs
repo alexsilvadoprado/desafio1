@@ -10,7 +10,7 @@ namespace desafio1
     {
         static void Main(string[] args)
         {
-            #region VARIÁVEIS GLOBAIS
+            #region VARIÁVEIS
 
             /** TEXTO DE APRESENTAÇÃO E DESCRIÇÃO DA APLICAÇÃO */
             string saudacao = "=============================================================\n"
